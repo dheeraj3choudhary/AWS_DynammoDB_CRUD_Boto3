@@ -1,8 +1,8 @@
 <div align="center">
 
-# CRUD OPERATIONS FOR AWS DynamoDB Using Python Boto3 Scripting
+![CRUD Dynamo (1)](https://user-images.githubusercontent.com/88716270/197408755-c9469cf4-c1f4-42a6-9e31-e09a4d1d4dd3.jpg)
 
-### If you like the series dont forget to [nominate me for Github Star](https://stars.github.com/nominate/) 🌟
+### If you like the contribution dont forget to [nominate me for Github Star](https://stars.github.com/nominate/) 🌟
 
 </div>
 
